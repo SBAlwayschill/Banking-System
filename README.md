@@ -30,7 +30,7 @@ The Banking System is a C# program that provides a command-line interface for ma
 - C# compiler
 -
 -
-##Usage
+## Usage
 Run the program by executing the compiled binary or using the IDE's "Run" command.
 
 Follow the menu prompts to perform various banking operations:
@@ -41,3 +41,12 @@ Withdraw: Enter the account number and withdrawal amount.
 Print account information: Enter the account number to view the details of a specific account.
 Exit: Choose this option to exit the program.
 All transaction logs will be saved
+
+## Contributing
+Contributions to the Banking System program are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+
+Feel free to customize the content, formatting, and sections of the README.md file to best fit your project's needs.
